@@ -1,27 +1,44 @@
-# Hi, I'm Blake 👋
+<!-- ANIMATED HEADER -->
+<div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=250&section=header&text=CyberSoul&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Ethical%20Hacker%20|%20Security%20Researcher%20|%20Code%20Breaker&descAlignY=55&descSize=18)
 
-## 📊 My GitHub Stats
+</div>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=CyberSoul404&show_icons=true&theme=tokyonight)
+<!-- TYPING ANIMATION -->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+my+Domain+%F0%9F%94%90;Ethical+Hacker+in+the+Making;Breaking+Systems+to+Build+Better+Ones;Kali+Linux+%7C+Python+%7C+Cybersecurity)](https://git.io/typing-svg)
 
-## 💻 Most Used Languages
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSoul404&layout=compact&theme=tokyonight)
+<!-- PROFILE VIEWS + FOLLOWERS -->
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=CyberSoul404&label=Profile%20Views&color=00ff41&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/CyberSoul404?label=Followers&style=for-the-badge&color=00ff41&labelColor=000000)](https://github.com/CyberSoul404)
+[![GitHub Stars](https://img.shields.io/github/stars/CyberSoul404?label=Stars&style=for-the-badge&color=00ff41&labelColor=000000)](https://github.com/CyberSoul404)
 
-## 🔥 My Streak
+</div>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyberSoul404&theme=tokyonight)
+---
 
-## 🏆 My Trophies
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=CyberSoul404&theme=tokyonight)
+```python
+class CyberSoul:
+    def __init__(self):
+        self.name = "Blake"
+        self.alias = "CyberSoul"
+        self.role = "Ethical Hacker in the Making"
+        self.location = "The Matrix"
+        self.os = "Kali Linux"
+        self.languages = ["Python", "Bash", "JavaScript"]
+        self.learning = ["Penetration Testing", "Network Security", "OSINT"]
+        self.passion = "Breaking systems to make them stronger"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's connect 🤝")
 
-
-
-
-## 🛠️ Technologies I Use
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+me = CyberSoul()
+me.say_hi()
