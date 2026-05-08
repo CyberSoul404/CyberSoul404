@@ -1,385 +1,446 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff41,100:000000&height=280&section=header&text=CyberSoul404&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ethical%20Hacker%20%7C%20Security%20Researcher%20%7C%20Code%20Breaker&descAlignY=58&descSize=18&descColor=00ff41" width="100%"/>
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:001a0a,60:003311,100:00ff41&height=320&section=header&text=CyberSoul404&fontSize=90&fontColor=00ff41&animation=fadeIn&fontAlignY=40&desc=⚡%20Ethical%20Hacker%20%7C%20Security%20Researcher%20%7C%20Code%20Breaker%20⚡&descAlignY=62&descSize=20&descColor=39ff14&stroke=00ff41&strokeWidth=2" />
 
+<!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=750&height=80&lines=root%40CyberSoul%3A~%24+whoami;%3E+Ethical+Hacker+in+the+Making;%3E+Breaking+Systems+to+Build+Better+Ones;%3E+Powered+by+Kali+Linux+%26+Python;%3E+Access+Granted+%E2%9C%93" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=600&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=65&lines=root%40CyberSoul%3A~%24+sudo+whoami;%5B+CLASSIFIED+%5D+Blake+%2F+CyberSoul404;Breaking+Systems+to+Build+Better+Ones+🔐;Powered+by+Kali+Linux+%26+Caffeine+☕;%3E+All+your+base+are+belong+to+us;%3E+Access+Granted.+Welcome%2C+Hacker." alt="Typing SVG" />
 </a>
 
-<br>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=CyberSoul404&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge" />
-<img src="https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/github/followers/CyberSoul404?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=000000" />
-<img src="https://img.shields.io/github/stars/CyberSoul404?label=STARS&style=for-the-badge&color=00ff41&labelColor=000000" />
+<!-- STATUS BADGES -->
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff41?style=for-the-badge&labelColor=0d1117&logo=circle&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/OS-Kali_Linux-557C94?style=for-the-badge&labelColor=0d1117&logo=kalilinux&logoColor=557C94" />
+<img src="https://img.shields.io/badge/FOCUS-Ethical_Hacking-ff6b35?style=for-the-badge&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=CyberSoul404&label=VISITORS&color=00ff41&style=for-the-badge&labelColor=0d1117" />
 
-<br><br>
+<br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,selenium,bash,linux,kali,docker,git&theme=dark&perline=10" />
+<!-- MATRIX RAIN DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 </div>
 
-<br>
+---
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> `$ whoami`
 
-<div align="center">
-
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-</div>
-
-## 🐍 whoami.py
-
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=80&pause=1000&color=00FF41&background=0D111700&width=900&height=480&lines=%23!%2Fusr%2Fbin%2Fenv+python3;;class+CyberSoul(EthicalHacker)%3A;++++def+__init__(self)%3A;++++++++self.name+%3D+%22Blake%22;++++++++self.alias+%3D+%22CyberSoul404%22;++++++++self.role+%3D+%22Ethical+Hacker%22;++++++++self.os+%3D+%22Kali+Linux+🐧%22;++++++++self.languages+%3D+%5B%22Python%22%2C+%22Bash%22%5D;++++++++self.tools+%3D+%5B%22Nmap%22%2C+%22Burp+Suite%22%5D;++++++++self.motto+%3D+%22Hack+the+planet+ethically%22;;++++def+say_hi(self)%3A;++++++++print(%22👋+Welcome+hacker!%22);;me+%3D+CyberSoul();me.say_hi()" />
-</a>
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<img align="right" alt="Hacking GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="380" />
 
 ```python
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-╔═══════════════════════════════════╗
-║       CYBERSOUL.PY v4.0.4         ║
-║   Status: 🟢 ONLINE | Hacking     ║
-╚═══════════════════════════════════╝
-"""
-
-from cybersecurity import EthicalHacker
-from passion import Curiosity, Coffee
-
+# ╔══════════════════════════════════════════╗
+# ║   CyberSoul404  |  Security Research    ║
+# ║   Version: 4.0.4  |  Build: STABLE      ║
+# ╚══════════════════════════════════════════╝
 
 class CyberSoul(EthicalHacker):
+
     def __init__(self):
-        self.name      = "Blake"
-        self.alias     = "CyberSoul404"
-        self.role      = "Ethical Hacker"
-        self.os        = "Kali Linux 🐧"
-        self.languages = ["Python", "Bash", "JS", "C"]
-        self.tools     = ["Nmap", "Burp", "Wireshark"]
-        self.learning  = ["Pentesting", "OSINT"]
-        self.motto     = "Hack ethically. 🌍"
+        self.alias      = "CyberSoul404"
+        self.name       = "Blake"
+        self.os         = "Kali Linux 🐧"
+        self.editor     = "NeoVim / VSCode"
+        self.languages  = ["Python", "Bash", "C", "JS"]
+        self.tools      = ["Burp", "Nmap", "Wireshark",
+                           "Metasploit", "John", "Hashcat"]
+        self.learning   = ["Advanced Pentesting",
+                           "OSINT", "Reverse Engineering",
+                           "Exploit Development"]
+        self.passion    = "Hack ethically. Protect fiercely."
 
-    def daily_routine(self):
-        while True:
-            self.learn_something_new()
-            self.break_a_system()
-            self.fix_what_i_broke()
-
+    def philosophy(self):
+        return {
+            "offensive": "Think like an attacker",
+            "defensive": "Build like a fortress",
+            "mindset":   "Break it to make it better"
+        }
 
 me = CyberSoul()
-me.say_hi()  # 👋 Welcome, hacker!
+print(me.passion)  # → Hack ethically. Protect fiercely.
 ```
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+## ⚡ Tech Arsenal
+
+<!-- SKILL ICONS ROW 1 -->
+<img src="https://skillicons.dev/icons?i=python,bash,c,js,html,css&theme=dark&perline=6" /><br/>
+<img src="https://skillicons.dev/icons?i=linux,kali,docker,git,github,vscode&theme=dark&perline=6" /><br/>
+<img src="https://skillicons.dev/icons?i=flask,selenium,mysql,postgresql,nginx,vim&theme=dark&perline=6" />
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🔐 Security
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
+![John](https://img.shields.io/badge/John_The_Ripper-CC0000?style=flat-square&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=flat-square&logoColor=white)
+![Aircrack](https://img.shields.io/badge/Aircrack--ng-006400?style=flat-square&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-8B0000?style=flat-square&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-```bash
-$ python3 cybersoul.py
+### 🐧 OS & Infra
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Parrot](https://img.shields.io/badge/Parrot_OS-15E0EA?style=flat-square&logo=parrotsecurity&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 
-[*] Initializing CyberSoul404...
-[+] Loading hacking modules......... ✓
-[+] Importing pentest tools......... ✓
-[+] Connecting to The Matrix........ ✓
-[+] Coffee level: ████████████ 100%
-[+] Caffeine: MAXIMUM OVERDRIVE ☕
+</td>
+<td align="center" width="33%">
 
->>> 👋 Welcome to my domain!
->>> 🔐 Let's secure the world.
-
-[✓] CyberSoul is now ONLINE
-[✓] Ready to hack ethically
-[✓] All systems operational
-[✓] Mission: Protect & Learn
-
-root@cybersoul:~#  _
-```
+### 🐍 Python Stack
+![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=flat-square&logo=python&logoColor=white)
+![Scapy](https://img.shields.io/badge/Scapy-FFD43B?style=flat-square&logo=python&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-FF6B35?style=flat-square&logo=python&logoColor=white)
+![Paramiko](https://img.shields.io/badge/Paramiko-306998?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+---
 
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+## 🐍 Code Showcase
 
-</div>
-
-## 🔥 Current Status
-
-<div align="center">
-
-| 🟢 STATUS | 📋 ACTIVITY |
-|-----------|-------------|
-| **Online** | Building cybersecurity tools |
-| **Learning** | Advanced Penetration Testing |
-| **Exploring** | OSINT & Reverse Engineering |
-| **Powered by** | Coffee & Curiosity |
-| **Reading** | The Art of Exploitation |
-
-</div>
-
-<div align="center">
-
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-</div>
-
-## 🛡️ Arsenal
-
-<div align="center">
-
-#### 🔤 Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-#### 🐧 Operating Systems
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Parrot_OS-15E0EA?style=for-the-badge&logo=parrotsecurity&logoColor=black" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-
-#### 🔐 Security Tools
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/John-EE0000?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logoColor=white" />
-
-#### 🐍 Python Stack
-<img src="https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Scapy-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-
-#### 🛠️ Dev Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-</div>
-
-<div align="center">
-
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-</div>
-
-## 🐍 Python Code Showcase
+<details>
+<summary><b>🔍 Ethical Port Scanner</b></summary>
 
 ```python
-# A glimpse into my coding style — Real ethical hacking tool
+#!/usr/bin/env python3
+"""
+██████╗  ██████╗ ██████╗ ████████╗    ███████╗ ██████╗ █████╗ ███╗   ██╗
+██╔══██╗██╔═══██╗██╔══██╗╚══██╔══╝    ██╔════╝██╔════╝██╔══██╗████╗  ██║
+██████╔╝██║   ██║██████╔╝   ██║       ███████╗██║     ███████║██╔██╗ ██║
+██╔═══╝ ██║   ██║██╔══██╗   ██║       ╚════██║██║     ██╔══██║██║╚██╗██║
+██║     ╚██████╔╝██║  ██║   ██║       ███████║╚██████╗██║  ██║██║ ╚████║
+╚═╝      ╚═════╝ ╚═╝  ╚═╝   ╚═╝       ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝
+  CyberSoul404 | Ethical Port Scanner v2.0 | Use responsibly.
+"""
 import socket
+import concurrent.futures
 from rich.console import Console
-from rich.progress import track
+from rich.table import Table
+from rich.progress import Progress, SpinnerColumn, BarColumn, TextColumn
+from datetime import datetime
 
 console = Console()
 
 
-def stealth_scan(target: str, ports: range) -> list:
-    """Ethical port scanner — find open doors before attackers do."""
-    open_ports = []
-    
-    for port in track(ports, description="🔍 Scanning..."):
-        with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as sock:
-            sock.settimeout(0.5)
-            if sock.connect_ex((target, port)) == 0:
-                open_ports.append(port)
-                console.print(f"[bold green][+] Port {port} OPEN[/bold green]")
-    
-    return open_ports
+def probe_port(target: str, port: int, timeout: float = 0.5) -> dict | None:
+    """Non-blocking port probe. Returns service info or None."""
+    try:
+        with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+            s.settimeout(timeout)
+            if s.connect_ex((target, port)) == 0:
+                try:
+                    banner = s.recv(1024).decode(errors="ignore").strip()
+                except Exception:
+                    banner = ""
+                service = socket.getservbyport(port, "tcp") if port < 1024 else "unknown"
+                return {"port": port, "service": service, "banner": banner[:60]}
+    except Exception:
+        return None
+
+
+def stealth_scan(target: str, port_range: range, max_workers: int = 200) -> list:
+    """Concurrent ethical port scanner with rich terminal output."""
+    results = []
+    table = Table(title=f"[bold green]🔍 Scan Results — {target}[/bold green]",
+                  border_style="green", show_lines=True)
+    table.add_column("Port", style="cyan bold", width=8)
+    table.add_column("Service", style="yellow")
+    table.add_column("Banner", style="dim white")
+
+    with Progress(
+        SpinnerColumn(spinner_name="dots12", style="green"),
+        TextColumn("[bold green]Scanning {task.description}"),
+        BarColumn(bar_width=40, complete_style="green"),
+        TextColumn("[cyan]{task.completed}/{task.total}"),
+        console=console
+    ) as progress:
+        task = progress.add_task(f"[{target}]", total=len(port_range))
+
+        with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as pool:
+            futures = {pool.submit(probe_port, target, p): p for p in port_range}
+            for future in concurrent.futures.as_completed(futures):
+                progress.advance(task)
+                result = future.result()
+                if result:
+                    results.append(result)
+                    table.add_row(str(result["port"]),
+                                  result["service"],
+                                  result["banner"] or "—")
+
+    console.print(table)
+    console.print(f"\n[bold green]✓ Scan complete — {len(results)} open port(s) found[/bold green]")
+    console.print(f"[dim]Timestamp: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}[/dim]")
+    return sorted(results, key=lambda x: x["port"])
 
 
 if __name__ == "__main__":
-    console.print("[bold cyan]🔐 CyberSoul Scanner v1.0[/bold cyan]")
-    results = stealth_scan("127.0.0.1", range(1, 1024))
-    console.print(f"[bold yellow]Found {len(results)} open ports[/bold yellow]")
+    console.print("[bold cyan]╔══════════════════════════════════════╗[/bold cyan]")
+    console.print("[bold cyan]║   CyberSoul Scanner  |  v2.0         ║[/bold cyan]")
+    console.print("[bold cyan]║   Ethical use only — you have been   ║[/bold cyan]")
+    console.print("[bold cyan]║   warned.                            ║[/bold cyan]")
+    console.print("[bold cyan]╚══════════════════════════════════════╝[/bold cyan]\n")
+    stealth_scan("127.0.0.1", range(1, 10000), max_workers=500)
 ```
 
-<div align="center">
+</details>
 
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<details>
+<summary><b>🌐 OSINT Username Recon Tool</b></summary>
 
-</div>
+```python
+#!/usr/bin/env python3
+"""Multi-platform username recon — CyberSoul404"""
+import asyncio
+import aiohttp
+from rich.console import Console
+from rich.live import Live
+from rich.table import Table
+
+PLATFORMS = {
+    "GitHub":    "https://github.com/{}",
+    "Twitter":   "https://twitter.com/{}",
+    "Instagram": "https://instagram.com/{}",
+    "Reddit":    "https://reddit.com/user/{}",
+    "HackerOne": "https://hackerone.com/{}",
+    "TryHackMe": "https://tryhackme.com/p/{}",
+    "HTB":       "https://app.hackthebox.com/users/search?term={}",
+}
+
+async def check(session, platform, url, username):
+    try:
+        async with session.get(url.format(username), timeout=aiohttp.ClientTimeout(total=5)) as r:
+            return platform, r.status == 200, url.format(username)
+    except Exception:
+        return platform, False, url.format(username)
+
+async def recon(username: str):
+    console = Console()
+    table = Table(title=f"🔍 Recon: [green]{username}[/green]", border_style="green")
+    table.add_column("Platform", style="cyan")
+    table.add_column("Status")
+    table.add_column("URL", style="dim")
+
+    async with aiohttp.ClientSession() as session:
+        tasks = [check(session, p, u, username) for p, u in PLATFORMS.items()]
+        results = await asyncio.gather(*tasks)
+
+    for platform, found, url in results:
+        status = "[bold green]✓ FOUND[/bold green]" if found else "[red]✗ NOT FOUND[/red]"
+        table.add_row(platform, status, url)
+
+    console.print(table)
+
+asyncio.run(recon("CyberSoul404"))
+```
+
+</details>
+
+---
 
 ## 📊 System Monitor
 
 <div align="center">
 
 <a href="https://github.com/CyberSoul404">
-<img src="https://github-readme-stats.vercel.app/api?username=CyberSoul404&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=86400" height="180" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/CyberSoul404">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSoul404&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&langs_count=8&cache_seconds=86400" height="180" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CyberSoul404&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,discussions_started,prs_merged" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSoul404&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" />
 </a>
 
-<br><br>
+<br/>
 
 <a href="https://github.com/CyberSoul404">
-<img src="https://streak-stats.demolab.com?user=CyberSoul404&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" height="180" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=CyberSoul404&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41&sideLabels=00ff41&dates=888888&stroke=0d1117" height="180" />
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberSoul404&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberSoul404&bg_color=0d1117&color=00ff41&line=00ff41&point=39ff14&area=true&area_color=003311&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="97%" />
+
+<br/><br/>
+
+<!-- 3D CONTRIBUTION GRAPH -->
+<a href="https://github.com/CyberSoul404">
+  <img src="https://github-profile-3d-contrib.vercel.app/profile-night-green.svg" width="97%" alt="3D Contribution Graph" />
+</a>
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+> **Setup:** Run the [workflow below](#-snake-workflow-setup) once to generate your real animated snake from your actual contribution graph.
 
 <div align="center">
 
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<!-- REAL SNAKE ANIMATION (generated by GitHub Actions from your actual contribution data) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/CyberSoul404/CyberSoul404/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/CyberSoul404/CyberSoul404/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation"
+    src="https://raw.githubusercontent.com/CyberSoul404/CyberSoul404/output/github-contribution-grid-snake-dark.svg"
+    width="100%" />
+</picture>
 
 </div>
 
-## 🐍 Python Mastery
+---
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=CyberSoul404&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="97%" />
+</div>
+
+---
+
+## 📡 Mission Status
 
 <div align="center">
 
-| Library / Skill | Level | Progress |
-|-----------------|-------|----------|
-| 🐍 **Python Core** | Advanced | `█████████░ 90%` |
-| 🌐 **Requests / urllib** | Advanced | `█████████░ 88%` |
-| 🔌 **Socket Programming** | Intermediate | `███████░░░ 75%` |
-| 🕸️ **BeautifulSoup / Scrapy** | Intermediate | `███████░░░ 70%` |
-| 🔐 **Cryptography** | Learning | `█████░░░░░ 55%` |
-| 🤖 **Selenium / Automation** | Intermediate | `██████░░░░ 65%` |
-| 🐛 **Scapy (Network)** | Learning | `████░░░░░░ 45%` |
+| 🎯 Objective | 📊 Progress | 🔖 Status |
+|:---|:---:|:---:|
+| 🔭 Build offensive cyber toolkit | `█████████░ 92%` | 🟢 Active |
+| 🌱 Master advanced pentesting | `████████░░ 78%` | 🟢 Active |
+| 🔍 OSINT & passive recon techniques | `███████░░░ 68%` | 🟡 Learning |
+| 🐛 Reverse engineering & malware analysis | `█████░░░░░ 48%` | 🟡 Learning |
+| 🏴 CTF competitions & writeups | `████████░░ 80%` | 🟢 Active |
+| 📜 CEH / eJPT Certification | `██████░░░░ 60%` | 🟡 In Progress |
+| 🤝 Open-source security contributions | `█████░░░░░ 50%` | ⚪ Pending |
 
 </div>
+
+---
+
+## 🎯 Weekly Ops
 
 <div align="center">
 
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+| 🗓️ Day | 🔐 Mission | ⚡ Status |
+|:---:|:---|:---:|
+| MON | Code review + vulnerability hunting | ✅ |
+| TUE | Build & test new security tools | ✅ |
+| WED | CTF challenges + writeups | ✅ |
+| THU | OSINT research + recon practice | 🔄 |
+| FRI | Documentation + GitHub updates | ⏳ |
+| SAT | Open-source contribution | ⏳ |
+| SUN | Deep study: exploit dev / reversing | ⏳ |
 
 </div>
 
-## 🏆 Achievements
+---
 
-<div align="center">
+## 🐍 Snake Workflow Setup
 
-<img src="https://github-profile-trophy.vercel.app/?username=CyberSoul404&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+> **Copy this file to `.github/workflows/snake.yml` in your profile repo** — it auto-generates the **real** snake from your contribution graph every 12 hours.
 
-</div>
+```yaml
+name: 🐍 Generate Contribution Snake
 
-<div align="center">
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # Every 12 hours
+  workflow_dispatch:           # Manual trigger
+  push:
+    branches: [main]
 
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+jobs:
+  generate:
+    name: Generate Snake Animation
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
 
-</div>
+    steps:
+      - name: 🐍 Generate snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-green.svg?palette=github-dark&color_snake=00ff41&color_dots=#0d1117,#003311,#005522,#007733,#00ff41
 
-## 💀 Mission Briefing
+      - name: 🚀 Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 
-<div align="center">
+---
 
-| 🎯 Mission | 📊 Progress |
-|------------|-------------|
-| 🔭 Building offensive cyber tools | `█████████░ 90%` |
-| 🌱 Mastering pen testing | `███████░░░ 70%` |
-| 🔍 Exploring OSINT techniques | `██████░░░░ 60%` |
-| 🐛 Reverse engineering malware | `████░░░░░░ 40%` |
-| 🤝 Contributing to open source | `█████░░░░░ 50%` |
-
-</div>
-
-<div align="center">
-
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-</div>
-
-## 🎯 Weekly Objectives
-
-<div align="center">
-
-| Day | Mission | Status |
-|-----|---------|--------|
-| 🟢 MON | Code review + bug hunting | DONE |
-| 🟢 TUE | Build cybersecurity tool | DONE |
-| 🟢 WED | Study CTF challenges | DONE |
-| 🟡 THU | OSINT research | IN PROGRESS |
-| ⚪ FRI | Write documentation | PENDING |
-| ⚪ SAT | Open source contribution | PENDING |
-| ⚪ SUN | Learn something new | PENDING |
-
-</div>
-
-<div align="center">
-
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-</div>
-
-## 🤝 Connect With Me
+## 📬 Connect
 
 <div align="center">
 
 <a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>
 <a href="https://linkedin.com/in/yourprofile">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
 </a>
 <a href="https://twitter.com/yourhandle">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117" />
 </a>
 <a href="https://discord.com/users/yourid">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://app.hackthebox.com/profile/yourprofile">
+  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0d1117" />
+</a>
+<a href="https://tryhackme.com/p/yourprofile">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117" />
 </a>
 
 </div>
 
-<div align="center">
+<br/>
 
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-</div>
-
-## 💭 Daily Wisdom
+---
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
 
 ```python
->>> import this
-The Zen of Python, by Tim Peters
-
-Beautiful is better than ugly.
-Explicit is better than implicit.
-Simple is better than complex.
-Readability counts.
+>>> print("The quieter you become, the more you can hear.")
+>>> print("— Kali Linux motto")
 ```
 
-<div align="center">
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff41,100:000000&height=120&section=footer" width="100%"/>
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:002200,70:004400,100:00ff41&height=140&section=footer&text=&animation=twinkling" />
 
-### 🔐 *"Every expert was once a beginner."*
-
-**Crafted with 💚 by [CyberSoul404](https://github.com/CyberSoul404)**
+<sub>Crafted with 💚 by <a href="https://github.com/CyberSoul404">CyberSoul404</a> — <i>Hack ethically. Build relentlessly.</i></sub>
 
 </div>
