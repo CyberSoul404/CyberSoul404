@@ -1,29 +1,26 @@
-<!-- ANIMATED HEADER -->
 <div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=250&section=header&text=CyberSoul&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Ethical%20Hacker%20|%20Security%20Researcher%20|%20Code%20Breaker&descAlignY=55&descSize=18)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=250&section=header&text=CyberSoul&fontSize=80&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Ethical%20Hacker%20%7C%20Security%20Researcher%20%7C%20Code%20Breaker&descAlignY=58&descSize=18&descColor=ffffff)
 
 </div>
 
-<!-- TYPING ANIMATION -->
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+my+Domain+%F0%9F%94%90;Ethical+Hacker+in+the+Making;Breaking+Systems+to+Build+Better+Ones;Kali+Linux+%7C+Python+%7C+Cybersecurity)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=700&height=70&lines=Welcome+to+my+Cyber+Domain+%F0%9F%94%90;Ethical+Hacker+in+the+Making+%F0%9F%92%80;Breaking+Systems+to+Build+Better+Ones;Powered+by+Kali+Linux+%26+Python)](https://git.io/typing-svg)
 
 </div>
 
-<!-- PROFILE VIEWS + FOLLOWERS -->
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=CyberSoul404&label=Profile%20Views&color=00ff41&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/CyberSoul404?label=Followers&style=for-the-badge&color=00ff41&labelColor=000000)](https://github.com/CyberSoul404)
-[![GitHub Stars](https://img.shields.io/github/stars/CyberSoul404?label=Stars&style=for-the-badge&color=00ff41&labelColor=000000)](https://github.com/CyberSoul404)
+
+![Profile Views](https://komarev.com/ghpvc/?username=CyberSoul404&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/CyberSoul404?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=000000)
+![Stars](https://img.shields.io/github/stars/CyberSoul404?label=STARS&style=for-the-badge&color=00ff41&labelColor=000000)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+## 🐍 About Me
 
 ```python
 class CyberSoul:
@@ -34,11 +31,11 @@ class CyberSoul:
         self.location = "The Matrix"
         self.os = "Kali Linux"
         self.languages = ["Python", "Bash", "JavaScript"]
-        self.learning = ["Penetration Testing", "Network Security", "OSINT"]
-        self.passion = "Breaking systems to make them stronger"
-    
+        self.learning = ["Penetration Testing", "OSINT", "Network Security"]
+        self.motto = "Breaking systems to make them stronger"
+
     def say_hi(self):
-        print("Thanks for dropping by! Let's connect 🤝")
+        print("Thanks for visiting! Let's connect 🤝")
 
 me = CyberSoul()
 me.say_hi()
