@@ -39,7 +39,7 @@ class CyberSoul:
 
 me = CyberSoul()
 me.say_hi()
-🛡️ My Arsenal
+
 <div align="center">
 Languages
 Python
