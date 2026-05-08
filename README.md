@@ -1,24 +1,17 @@
-# Hi there, I'm Blake 👋 (CyberSoul404)
+# Hi, I'm Blake 👋
 
- 🔐 Cybersecurity Enthusiast | Developer | Lifelong Learner
+## 📊 My GitHub Stats
 
-- 🔭 I'm currently working on **[your project]**
-- 🌱 I'm currently learning **[tech/skills]**
-- 💬 Ask me about **cybersecurity, Python, etc.**
-- 📫 Reach me: **your-email@example.com**
-- ⚡ Fun fact: **something cool about you**## Hi there 👋
+![Stats](https://github-readme-stats.vercel.app/api?username=CyberSoul404&show_icons=true&theme=tokyonight)
 
-<!--
-**CyberSoul404/CyberSoul404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Most Used Languages
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSoul404&layout=compact&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 My Streak
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyberSoul404&theme=tokyonight)
+
+## 🏆 My Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=CyberSoul404&theme=tokyonight)
