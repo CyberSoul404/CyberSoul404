@@ -18,28 +18,7 @@
 
 </div>
 
----
-
-## 🐍 About Me
-
-```python
-class CyberSoul:
-    def __init__(self):
-        self.name = "Blake"
-        self.alias = "CyberSoul"
-        self.role = "Ethical Hacker in the Making"
-        self.location = "The Matrix"
-        self.os = "Kali Linux"
-        self.languages = ["Python", "Bash", "JavaScript"]
-        self.learning = ["Penetration Testing", "OSINT", "Network Security"]
-        self.motto = "Breaking systems to make them stronger"
-
-    def say_hi(self):
-        print("Thanks for visiting! Let's connect 🤝")
-
-me = CyberSoul()
-me.say_hi()
-
+🛡️ My Arsenal
 <div align="center">
 Languages
 Python
@@ -63,3 +42,39 @@ GitHub
 VSCode
 
 </div>
+
+
+📊 GitHub Statistics
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=CyberSoul404&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSoul404&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff" height="180"/></div><div align="center"><img src="https://streak-stats.demolab.com?user=CyberSoul404&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="180"/></div>
+🏆 Trophies
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=CyberSoul404&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10"/></div>
+
+🎯 What I'm Up To
+🔭 Building offensive security tools in Python
+🌱 Currently learning advanced penetration testing
+👯 Looking to collaborate on security projects
+💬 Ask me about ethical hacking & Linux
+⚡ Fun fact: The best defense is knowing how to attack
+🌐 Let's Connect
+<div align="center">
+Email
+LinkedIn
+Twitter
+
+</div>
+<div align="center">
+💭 Quote
+Quote
+
+</div><div align="center">
+Footer
+
+⭐ Stay Curious. Stay Secure. 🔐
+
+</div> ```
+
+---
+
+## 🐍 About Me
+
+```python
