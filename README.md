@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there, I'm Blake 👋 (CyberSoul404)
+
+ 🔐 Cybersecurity Enthusiast | Developer | Lifelong Learner
+
+- 🔭 I'm currently working on **[your project]**
+- 🌱 I'm currently learning **[tech/skills]**
+- 💬 Ask me about **cybersecurity, Python, etc.**
+- 📫 Reach me: **your-email@example.com**
+- ⚡ Fun fact: **something cool about you**## Hi there 👋
 
 <!--
 **CyberSoul404/CyberSoul404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
