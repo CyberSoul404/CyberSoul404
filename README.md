@@ -35,10 +35,23 @@
 
 ## 🐍 whoami.py
 
-<img align="right" alt="Hacker" width="350" src="https://media.giphy.com/media/qLHzYjlA2FW8g/giphy.gif" />
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=80&pause=1000&color=00FF41&background=0D111700&width=900&height=480&lines=%23!%2Fusr%2Fbin%2Fenv+python3;;class+CyberSoul(EthicalHacker)%3A;++++def+__init__(self)%3A;++++++++self.name+%3D+%22Blake%22;++++++++self.alias+%3D+%22CyberSoul404%22;++++++++self.role+%3D+%22Ethical+Hacker%22;++++++++self.os+%3D+%22Kali+Linux+🐧%22;++++++++self.languages+%3D+%5B%22Python%22%2C+%22Bash%22%5D;++++++++self.tools+%3D+%5B%22Nmap%22%2C+%22Burp+Suite%22%5D;++++++++self.motto+%3D+%22Hack+the+planet+ethically%22;;++++def+say_hi(self)%3A;++++++++print(%22👋+Welcome+hacker!%22);;me+%3D+CyberSoul();me.say_hi()" />
+</a>
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
 ```python
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 ╔═══════════════════════════════════╗
 ║       CYBERSOUL.PY v4.0.4         ║
@@ -54,50 +67,51 @@ class CyberSoul(EthicalHacker):
     def __init__(self):
         self.name      = "Blake"
         self.alias     = "CyberSoul404"
-        self.role      = "Ethical Hacker in Training"
-        self.location  = "The Matrix 🌐"
+        self.role      = "Ethical Hacker"
         self.os        = "Kali Linux 🐧"
-        self.languages = ["Python", "Bash", "JavaScript", "C"]
-        self.tools     = ["Nmap", "Burp", "Wireshark", "Metasploit"]
-        self.learning  = ["Pentesting", "OSINT", "Reverse Eng"]
-        self.fuel      = Coffee(cups="∞")
-        self.motto     = "Hack the planet, ethically. 🌍"
+        self.languages = ["Python", "Bash", "JS", "C"]
+        self.tools     = ["Nmap", "Burp", "Wireshark"]
+        self.learning  = ["Pentesting", "OSINT"]
+        self.motto     = "Hack ethically. 🌍"
 
     def daily_routine(self):
         while True:
             self.learn_something_new()
             self.break_a_system()
             self.fix_what_i_broke()
-            self.share_with_community()
 
 
 me = CyberSoul()
-me.say_hi()  # 👋 Welcome, fellow hacker!
+me.say_hi()  # 👋 Welcome, hacker!
 ```
 
-<br clear="all"/>
-
-<div align="center">
-
-### ⚡ Live Terminal Output
+</td>
+<td width="50%" valign="top">
 
 ```bash
 $ python3 cybersoul.py
 
 [*] Initializing CyberSoul404...
-[+] Loading ethical hacking modules......... ✓
-[+] Importing penetration testing tools..... ✓
-[+] Connecting to The Matrix................ ✓
-[+] Coffee level: ████████████████████ 100%
+[+] Loading hacking modules......... ✓
+[+] Importing pentest tools......... ✓
+[+] Connecting to The Matrix........ ✓
+[+] Coffee level: ████████████ 100%
+[+] Caffeine: MAXIMUM OVERDRIVE ☕
 
->>> 👋 Welcome to my domain, fellow hacker!
->>> 🔐 Let's build a safer cyber world together.
+>>> 👋 Welcome to my domain!
+>>> 🔐 Let's secure the world.
 
 [✓] CyberSoul is now ONLINE
-[✓] Ready to break things ethically
+[✓] Ready to hack ethically
+[✓] All systems operational
+[✓] Mission: Protect & Learn
+
+root@cybersoul:~#  _
 ```
 
-</div>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -176,12 +190,13 @@ $ python3 cybersoul.py
 ## 🐍 Python Code Showcase
 
 ```python
-# A glimpse into my coding style
+# A glimpse into my coding style — Real ethical hacking tool
 import socket
 from rich.console import Console
 from rich.progress import track
 
 console = Console()
+
 
 def stealth_scan(target: str, ports: range) -> list:
     """Ethical port scanner — find open doors before attackers do."""
@@ -214,21 +229,21 @@ if __name__ == "__main__":
 <div align="center">
 
 <a href="https://github.com/CyberSoul404">
-<img src="https://github-readme-stats.vercel.app/api?username=CyberSoul404&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&include_all_commits=true&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=CyberSoul404&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=86400" height="180" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/CyberSoul404">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSoul404&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&langs_count=8" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSoul404&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&langs_count=8&cache_seconds=86400" height="180" alt="Top Languages"/>
 </a>
 
 <br><br>
 
 <a href="https://github.com/CyberSoul404">
-<img src="https://streak-stats.demolab.com?user=CyberSoul404&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" height="180" />
+<img src="https://streak-stats.demolab.com?user=CyberSoul404&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" height="180" alt="GitHub Streak"/>
 </a>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberSoul404&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberSoul404&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
 
 </div>
 
@@ -347,6 +362,8 @@ if __name__ == "__main__":
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
+</div>
+
 ```python
 >>> import this
 The Zen of Python, by Tim Peters
@@ -356,8 +373,6 @@ Explicit is better than implicit.
 Simple is better than complex.
 Readability counts.
 ```
-
-</div>
 
 <div align="center">
 
