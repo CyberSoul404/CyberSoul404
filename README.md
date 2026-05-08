@@ -52,3 +52,24 @@ class CyberSoul(EthicalHacker):
 
 me = CyberSoul()
 print(me.passion)  # → Hack ethically. Protect fiercely.
+
+<br clear="right"/>
+<div align="center">
+⚡ Tech Arsenal
+<!-- SKILLS — shields.io badges, 100% reliable -->
+🔤 Languages
+PythonBashCJavaScriptHTML5CSS3
+
+🔐 Security Tools
+WiresharkBurp SuiteMetasploitNmapHashcatJohnHydraAircrack-ng
+
+🐧 OS & Infrastructure
+Kali LinuxParrot OSUbuntuArchDockerVirtualBox
+
+🐍 Python Stack
+FlaskSeleniumScapyRequestsBeautifulSoupCryptography
+
+🛠️ Dev Tools
+GitGitHubVS CodeNeovimNginxMySQLPostgreSQL
+
+</div>
