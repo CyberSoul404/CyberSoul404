@@ -39,3 +39,27 @@ class CyberSoul:
 
 me = CyberSoul()
 me.say_hi()
+🛡️ My Arsenal
+<div align="center">
+Languages
+Python
+Bash
+JavaScript
+HTML5
+
+Operating Systems
+Kali
+Ubuntu
+Windows
+
+Security Tools
+Wireshark
+Nmap
+Burp
+
+Tools
+Git
+GitHub
+VSCode
+
+</div>
