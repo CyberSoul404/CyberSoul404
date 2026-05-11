@@ -21,29 +21,8 @@
 
 <img align="right" alt="Hacking GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="380" />
 
-```python
-#!/usr/bin/env python3
-# ╔══════════════════════════════════════════╗
-# ║   CyberSoul404  |  Security Research    ║
-# ║   Version: 4.0.4  |  Build: STABLE      ║
-# ╚══════════════════════════════════════════╝
 
-class CyberSoul(EthicalHacker):
-
-    def __init__(self):
-        self.alias      = "CyberSoul404"
-        self.name       = "Blake"
-        self.os         = "Kali Linux 🐧"
-        self.editor     = "NeoVim / VSCode"
-        self.languages  = ["Python", "Bash", "C", "JS"]
-        self.tools      = ["Burp", "Nmap", "Wireshark",
-                           "Metasploit", "John", "Hashcat"]
-        self.learning   = ["Advanced Pentesting",
-                           "OSINT", "Reverse Engineering",
-                           "Exploit Development"]
-        self.passion    = "Hack ethically. Protect fiercely."
-
-    def philosophy(self):
+  def philosophy(self):
         return {
             "offensive": "Think like an attacker",
             "defensive": "Build like a fortress",
@@ -221,4 +200,30 @@ SUN	Deep study: exploit dev / reversing	⏳
 <sub><i>Hack ethically. Build relentlessly.</i></sub>
 
 </div> ```
+
+
+```python
+
+#!/usr/bin/env python3
+# ╔══════════════════════════════════════════╗
+# ║   CyberSoul404  |  Security Research    ║
+# ║   Version: 4.0.4  |  Build: STABLE      ║
+# ╚══════════════════════════════════════════╝
+
+class CyberSoul(EthicalHacker):
+
+    def __init__(self):
+        self.alias      = "CyberSoul404"
+        self.name       = "Blake"
+        self.os         = "Kali Linux 🐧"
+        self.editor     = "NeoVim / VSCode"
+        self.languages  = ["Python", "Bash", "C", "JS"]
+        self.tools      = ["Burp", "Nmap", "Wireshark",
+                           "Metasploit", "John", "Hashcat"]
+        self.learning   = ["Advanced Pentesting",
+                           "OSINT", "Reverse Engineering",
+                           "Exploit Development"]
+        self.passion    = "Hack ethically. Protect fiercely."
+
+  
     
