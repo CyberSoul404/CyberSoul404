@@ -1,42 +1,97 @@
-name: Metrics
+name: GitHub Metrics
+
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  # Daily 6 AM IST pe automatic run
+  schedule:
+    - cron: "30 0 * * *"
+  
+  # Manual run ka option (button se chala sakte ho)
   workflow_dispatch:
-  push: {branches: ["main"]}
+  
+  # Jab bhi main branch pe push karo, run ho
+  push:
+    branches: ["main"]
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
         with:
+          # Token jo humne abhi banaya
           token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Tumhara username
           user: CyberSoul404
+          
+          # Output filename
+          filename: github-metrics.svg
+          
+          # Theme & Style
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
           
-          # Plugins
+          # 🔥 PLUGINS - Sab features yahan enable karo
+          
+          # Calendar showing your activity
           plugin_isocalendar: yes
+          
+          # Languages used
           plugin_languages: yes
-          plugin_languages_ignored: html, css, tex, less, dockerfile
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile
           plugin_languages_details: percentage, bytes-size
-          plugin_followup: yes
+          plugin_languages_limit: 8
+          
+          # Topics with icons
           plugin_topics: yes
           plugin_topics_mode: icons
+          plugin_topics_limit: 15
+          
+          # Lines of code added/removed
           plugin_lines: yes
+          
+          # Achievement badges
           plugin_achievements: yes
           plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: detailed
+          
+          # Coding habits (when you code most)
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          plugin_habits_trim: yes
+          
+          # Recent activity
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 14
+          plugin_activity_filter: all
+          
+          # Notable contributions
           plugin_notable: yes
-          plugin_stargazers: yes
+          plugin_notable_indepth: yes
+          plugin_notable_types: commit, issue, pull_request
+          
+          # Followup (issues/PRs status)
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+          
+          # People (followers/following)
           plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+          
+          # Repositories featured
           plugin_repositories: yes
           plugin_repositories_featured: CyberSoul404/CyberSoul404
+          
+          # Stargazers chart
+          plugin_stargazers: yes
+          plugin_stargazers_charts_type: graph
